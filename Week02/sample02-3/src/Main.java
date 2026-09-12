@@ -2,7 +2,6 @@
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 void main() {
     Scanner keyboard = new Scanner(System.in);
-    double PI = 3.141592;
     int radius;  //원의 반지름
     double area;
 
@@ -12,5 +11,4 @@ void main() {
 
     area = 3.141592 * radius * radius;
     System.out.printf("원의 반지름 : %,d cm, 면적 : %,.2f \u33A0\n", radius, area);
-
-    }
+}
