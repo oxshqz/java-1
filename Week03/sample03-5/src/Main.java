@@ -9,6 +9,6 @@ void main() {
     System.out.printf("우리나라는 %s 입니다.\n", kor);
     System.out.printf("대한민국 수도 : %s\n", capital);
     System.out.printf("대한민국 면적 : %d\n", area);
-    System.out.printf("대한민국 인구수 : %d\n",persons);
+    System.out.printf("대한민국 인구수 : %d명 (2010년 기준)\n",persons);
 
 }
